@@ -1,2 +1,2 @@
 # sample-github-action
-sample-github-actions
+sample-github-action
